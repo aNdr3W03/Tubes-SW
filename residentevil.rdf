@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:schema="http://schema.org/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:wd="http://www.wikidata.org/entity/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbr="http://dbpedia.org/resource/"
+    xmlns:owl ="http://www.w3.org/2002/07/owl#"
+>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil_(film)">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F1</dbp:number>
+        <dbo:abstract>Resident Evil is a 2002 action horror film written and directed by Paul W. S. Anderson. The film stars Milla Jovovich, Michelle Rodriguez, Eric Mabius, James Purefoy, Martin Crewes, and Colin Salmon. It is the first installment in the Resident Evil film series, which is loosely based on the video game series of the same name. The film was followed by five sequels: Apocalypse (2004), Extinction (2007), Afterlife (2010), Retribution (2012), and The Final Chapter (2016).</dbo:abstract>
+        <rdfs:label>Resident Evil</rdfs:label>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:releaseDate>March 21, 2002</dbo:releaseDate>
+        <dbo:year>2002</dbo:year>
+        <dbp:age>18+</dbp:age>
+        <dbp:rating>6.7/10</dbp:rating>
+        <dbp:duration>1h 40m</dbp:duration>
+        <dbp:trailer rdf:resource="https://www.youtube.com/embed/kEutwdia8n0"/>
+        <foaf:homepage rdf:resource="https://www.imdb.com/title/tt0120804/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_Apocalypse">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F2</dbp:number>
+        <dbo:abstract>Resident Evil: Apocalypse is a 2004 action horror film directed by Alexander Witt and written by Paul W. S. Anderson. A direct sequel to Resident Evil (2002), it is the second installment in the Resident Evil film series, which is loosely based on the video game series of the same name. The film marks Witt's feature directorial debut; Anderson, the director of the first film, turned down the job due to other commitments, though stayed on as one of its producers. Milla Jovovich reprises her role as Alice, and is joined by Sienna Guillory as Jill Valentine and Oded Fehr as Carlos Olivera.</dbo:abstract>
+        <rdfs:label>Resident Evil: Apocalypse</rdfs:label>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:releaseDate>September 10, 2004</dbo:releaseDate>
+        <dbo:year>2004</dbo:year>
+        <dbp:age>18+</dbp:age>
+        <dbp:rating>6.7/10</dbp:rating>
+        <dbp:duration>1h 34m</dbp:duration>
+        <dbp:trailer rdf:resource="https://www.youtube.com/embed/nzF3yoF7N_E"/>
+        <foaf:homepage rdf:resource="http://www.imdb.com/title/tt0318627/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_Extinction">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F3</dbp:number>
+        <dbo:abstract>Resident Evil: Extinction is a 2007 action horror film directed by Russell Mulcahy and written by Paul W. S. Anderson. A direct sequel to Resident Evil: Apocalypse (2004), it is the third installment in the Resident Evil film series, which is loosely based on the Capcom survival horror video game series of the same name. The film follows the heroine Alice, along with a group of survivors from Raccoon City, as they attempt to travel across the Mojave desert wilderness to Alaska and escape a zombie apocalypse.</dbo:abstract>
+        <rdfs:label>Resident Evil: Extinction</rdfs:label>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:releaseDate>September 21, 2007</dbo:releaseDate>
+        <dbo:year>2007</dbo:year>
+        <dbp:age>R</dbp:age>
+        <dbp:rating>6.2/10</dbp:rating>
+        <dbp:duration>1h 34m</dbp:duration>
+        <dbp:trailer rdf:resource="https://www.youtube.com/embed/eDMjVARsCOk"/>
+        <foaf:homepage rdf:resource="https://www.imdb.com/title/tt0432021/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_Afterlife">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F4</dbp:number>
+        <dbo:abstract>Resident Evil: Afterlife is a 2010 action horror film written and directed by Paul W. S. Anderson. The film marks Anderson's return to direct in the Resident Evil film series, after the first film. A direct sequel to Resident Evil: Extinction (2007), it is the fourth installment in the Resident Evil film series, which is loosely based on the video game series of the same name, and the first to be shot in 3D. It stars Milla Jovovich, Ali Larter, Kim Coates, Shawn Roberts, Spencer Locke, Boris Kodjoe, and Wentworth Miller.</dbo:abstract>
+        <rdfs:label>Resident Evil: Afterlife</rdfs:label>
+        <dbo:releaseDate>September 10, 2010</dbo:releaseDate>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:year>2010</dbo:year>
+        <dbp:age>R</dbp:age>
+        <dbp:rating>5.8/10</dbp:rating>
+        <dbp:duration>1h 36m</dbp:duration>
+        <dbp:trailer rdf:resource="http://www.youtube.com/embed/9dc5iiT0f1s"/>
+        <foaf:homepage rdf:resource="http://www.imdb.com/title/tt1220634/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_Retribution">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F5</dbp:number>
+        <dbo:abstract>Resident Evil: Retribution is a 2012 action horror film written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil: Afterlife (2010), it is the fifth installment in the Resident Evil film series, loosely based on the video game franchise of the same name. It is also the third to be written and directed by Anderson after the first film and previous installment. The film focuses on Alice (Milla Jovovich) captured by the Umbrella Corporation, forcing her to make her escape from an underwater facility in the Extreme North, used for testing the T-virus.</dbo:abstract>
+        <rdfs:label>Resident Evil: Retribution</rdfs:label>
+        <dbo:releaseDate>September 14, 2012</dbo:releaseDate>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:year>2012</dbo:year>
+        <dbp:age>R</dbp:age>
+        <dbp:rating>5.4/10</dbp:rating>
+        <dbp:duration>1h 35m</dbp:duration>
+        <dbp:trailer rdf:resource="https://www.youtube.com/embed/hoyMT-7wEqs"/>
+        <foaf:homepage rdf:resource="http://www.imdb.com/title/tt1855325/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_The_Final_Chapter">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F6</dbp:number>
+        <dbo:abstract>Resident Evil: The Final Chapter is a 2016 science fiction action film written and directed by Paul W. S. Anderson. A direct sequel to Resident Evil: Retribution (2012), it is the final installment in the Resident Evil film series, which is based on the video game series of the same name. The film stars Milla Jovovich, Iain Glen, Ali Larter, Shawn Roberts, Eoin Macken, Fraser James, Ruby Rose, Rola, and William Levy. In the film, Alice and her friends are betrayed by a clone of Albert Wesker, who gathers the entire forces of Umbrella into one final strike against the apocalypse survivors.</dbo:abstract>
+        <rdfs:label>Resident Evil: The Final Chapter</rdfs:label>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:releaseDate>January 27, 2017</dbo:releaseDate>
+        <dbo:year>2017</dbo:year>
+        <dbp:age>17+</dbp:age>
+        <dbp:rating>5.5/10</dbp:rating>
+        <dbp:duration>1h 47m</dbp:duration>
+        <dbp:trailer rdf:resource="http://www.youtube.com/embed/79Sd4GtOXuI"/>
+        <foaf:homepage rdf:resource="http://www.imdb.com/title/tt2592614/"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://dbpedia.org/resource/Resident_Evil:_Welcome_to_Raccoon_City">
+        <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+        <dbp:number>F7</dbp:number>
+        <dbo:abstract>Resident Evil: Welcome to Raccoon City is an upcoming survival horror film written and directed by Johannes Roberts. Based on the first and second games by Capcom, it serves as a reboot of the Resident Evil film series, which is loosely based on the video game series of the same name. The film stars Kaya Scodelario, Robbie Amell, Hannah John-Kamen, Avan Jogia, Tom Hopper, Lily Gao, Neal McDonough, and Donal Logue. Resident Evil: Welcome to Raccoon City is scheduled to be released in the United States on November 24, 2021, by Sony Pictures Releasing.</dbo:abstract>
+        <rdfs:label>Resident Evil: Welcome to Raccoon City</rdfs:label>
+        <dbp:genre>Action, Horror, Sci-Fi</dbp:genre>
+        <dbo:releaseDate>November 22, 2021</dbo:releaseDate>
+        <dbo:year>2021</dbo:year>
+        <dbp:age>R</dbp:age>
+        <dbp:rating>5.7/10</dbp:rating>
+        <dbp:duration>1h 47m</dbp:duration>
+        <dbp:trailer rdf:resource="http://www.youtube.com/embed/4q6UGCyHZCI"/>
+        <foaf:homepage rdf:resource="http://www.imdb.com/title/tt6920084/"/>
+    </rdf:Description>
+</rdf:RDF>
